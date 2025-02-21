@@ -1,0 +1,61 @@
+{
+  "hash": "3914254c",
+  "configHash": "797e74d8",
+  "lockfileHash": "887c9dd9",
+  "browserHash": "d39fdb43",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "af7fa055",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "53288dc4",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "742ca8b1",
+      "needsInterop": false
+    },
+    "@mui/material/Checkbox": {
+      "src": "../../node_modules/@mui/material/Checkbox/index.js",
+      "file": "@mui_material_Checkbox.js",
+      "fileHash": "d6b13a68",
+      "needsInterop": false
+    },
+    "@mui/material/FormControlLabel": {
+      "src": "../../node_modules/@mui/material/FormControlLabel/index.js",
+      "file": "@mui_material_FormControlLabel.js",
+      "fileHash": "91ab8e1f",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "2e767182",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-VUY743FK": {
+      "file": "chunk-VUY743FK.js"
+    },
+    "chunk-FPEHQ7MX": {
+      "file": "chunk-FPEHQ7MX.js"
+    },
+    "chunk-M3ODMOBX": {
+      "file": "chunk-M3ODMOBX.js"
+    },
+    "chunk-JFHGCLWR": {
+      "file": "chunk-JFHGCLWR.js"
+    },
+    "chunk-DDNM7ENY": {
+      "file": "chunk-DDNM7ENY.js"
+    }
+  }
+}
